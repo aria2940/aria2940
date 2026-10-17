@@ -2,7 +2,7 @@
 <div align="center">
 
 # AriaRamezani
-**Computer Engineering Student · Product Builder**
+**Computer Engineering Student - developer
 
 [![Python](https://img.shields.io/badge/Python-UNLOCKED-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-UNLOCKED-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
