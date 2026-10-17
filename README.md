@@ -1,42 +1,74 @@
-# Hi, I'm Ariya 👋
 
-🎓 Computer Engineering Student · 🚀 Product Developer
+<div align="center">
 
-I build practical software products, automation systems, and digital solutions around real-world problems.
+# 🐢 AriaRamezani
 
-## What I Do
+**Computer Engineering Student · Product Builder**
 
-* 🚀 Product Development
-* 🐍 Python & Django
-* 🤖 Automation & AI-assisted Development
-* 🔗 API Integration
-* 🧩 Product Logic & System Design
+*Building things, one pixel at a time.* ✦
 
-## Selected Work
+```text
+       ▄▄▄▄▄
+    ▄██▀▀▀▀██▄
+   ███  🟢  ███
+   ▀██▄____▄██▀
+     ▀▀▀▀▀▀
+  LITTLE TURTLE CLUB
+```
 
-### StarsPay
+[![Python](https://img.shields.io/badge/Python-UNLOCKED-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-UNLOCKED-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-UNLOCKED-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
 
-A Telegram-based digital commerce platform that simplifies Telegram Stars and digital service purchases through automated payment and blockchain integrations.
+[![React](https://img.shields.io/badge/React-LOADING...-7656C9?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-LOADING...-B8860B?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-**10K+ users · 15K+ orders · <15s automated fulfillment**
+</div>
 
-### Ovisit
+---
 
-A SaaS platform for appointment-based businesses, combining scheduling, customer management, analytics, online booking, and automation in one system.
+### 🚀 My Little Worlds
 
-**Currently in active development**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Exploring
+### ⭐ [StarsPay](https://starspaye.ir)
 
-🤖 AI-assisted Development
-🧠 Agentic Software Engineering
-🏗️ Software Architecture for Large & Complex Systems
-⚙️ Intelligent Automation
+A Telegram Stars & Premium storefront.
 
-## Tech
+`TELEGRAM` `PYTHON` `AUTOMATION`
 
-**Python · Django · JavaScript · Next.js · PostgreSQL · SQLite · REST APIs**
+[Explore StarsPay ↗](https://starspaye.ir)
 
-## Connect
+</td>
+<td width="50%" valign="top">
 
-💼 [LinkedIn](https://www.linkedin.com/in/aria-ramezani/)
+### 🌱 [Ovisit](https://ovisit.ir)
+
+An appointment-management SaaS for service businesses.
+
+`SAAS` `CRM` `PRODUCT DEVELOPMENT`
+
+[Explore Ovisit ↗](https://ovisit.ir)
+
+</td>
+</tr>
+</table>
+
+### 🎮 Current Quest
+
+- 🐍 Building with Python & Django
+- 🤖 Exploring AI automation and API integrations
+- ⚛️ Leveling up React & JavaScript
+- 🌍 Turning small ideas into real products
+
+---
+
+<div align="center">
+
+**🐢 NO RUSH. JUST PROGRESS. ✨**
+
+<sub>Made of pixels, curiosity, and too many ideas.</sub>
+
+</div>
